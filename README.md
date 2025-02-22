@@ -55,6 +55,3 @@ speedtest-cli
 
 ---
 Dieses Projekt steht unter der **MIT-Lizenz** und kann frei verwendet und angepasst werden.
-
-**Erstellt von ChatGPT** 🚀
-
